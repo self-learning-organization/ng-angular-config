@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "individual-learning": {
+      "hosting": {
+        "angular-config": [
+          "individual-learning"
+        ]
+      }
+    }
+  }
+}
